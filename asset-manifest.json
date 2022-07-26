@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.a476db03.chunk.css",
-    "main.js": "./static/js/main.b617e6da.chunk.js",
-    "main.js.map": "./static/js/main.b617e6da.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-    "static/js/2.d9b2551e.chunk.js": "./static/js/2.d9b2551e.chunk.js",
-    "static/js/2.d9b2551e.chunk.js.map": "./static/js/2.d9b2551e.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.98b6ac05069dcfe3669dfa9d987c3f7e.js": "./precache-manifest.98b6ac05069dcfe3669dfa9d987c3f7e.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.a476db03.chunk.css.map": "./static/css/main.a476db03.chunk.css.map",
-    "static/media/albird.svg": "./static/media/albird.aab060a4.svg",
-    "static/media/bg.jpeg": "./static/media/bg.622bb7a1.jpeg"
-  }
+    "main.css": "/Magpie-LuckyDraw/static/css/main.f00ea47f.chunk.css",
+    "main.js": "/Magpie-LuckyDraw/static/js/main.bdeccef3.chunk.js",
+    "main.js.map": "/Magpie-LuckyDraw/static/js/main.bdeccef3.chunk.js.map",
+    "runtime-main.js": "/Magpie-LuckyDraw/static/js/runtime-main.3df11e18.js",
+    "runtime-main.js.map": "/Magpie-LuckyDraw/static/js/runtime-main.3df11e18.js.map",
+    "static/js/2.acba6e45.chunk.js": "/Magpie-LuckyDraw/static/js/2.acba6e45.chunk.js",
+    "static/js/2.acba6e45.chunk.js.map": "/Magpie-LuckyDraw/static/js/2.acba6e45.chunk.js.map",
+    "index.html": "/Magpie-LuckyDraw/index.html",
+    "precache-manifest.13acd3084e8e380e262377be252ed063.js": "/Magpie-LuckyDraw/precache-manifest.13acd3084e8e380e262377be252ed063.js",
+    "service-worker.js": "/Magpie-LuckyDraw/service-worker.js",
+    "static/css/main.f00ea47f.chunk.css.map": "/Magpie-LuckyDraw/static/css/main.f00ea47f.chunk.css.map",
+    "static/js/2.acba6e45.chunk.js.LICENSE": "/Magpie-LuckyDraw/static/js/2.acba6e45.chunk.js.LICENSE",
+    "static/media/albird.svg": "/Magpie-LuckyDraw/static/media/albird.aab060a4.svg",
+    "static/media/bg.jpeg": "/Magpie-LuckyDraw/static/media/bg.622bb7a1.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df11e18.js",
+    "static/js/2.acba6e45.chunk.js",
+    "static/css/main.f00ea47f.chunk.css",
+    "static/js/main.bdeccef3.chunk.js"
+  ]
 }
